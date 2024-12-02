@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calc_khalil</string>
+    <string name="calc">Ma Calculatrice Basic @Whiteman :)</string>
+    <string name="adit">Addition</string>
+    <string name="sous">Soustraction</string>
+    <string name="mult">Multiplication</string>
+    <string name="div">Division</string>
+    <string name="n1">Nombre 1 :</string>
+    <string name="n2">Nombre 2 :</string>
+    <string name="res">Resultat :</string>
+</resources>
